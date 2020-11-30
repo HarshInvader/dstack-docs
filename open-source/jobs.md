@@ -6,6 +6,10 @@ description: >-
 
 # Jobs
 
+{% hint style="warning" %}
+Please note that **Jobs** will be **deprecated** in the future versions of dstack \(from `version 0.6` onwards\). You can refer to the [Applications](applications.md) section if you want to use this functionality in the future.
+{% endhint %}
+
 dstack.ai allows you to execute simple Python and R jobs right on dstack.ai – either on demand or automatically at a regular schedule. These jobs can run use basic scientific packages, such as `pandas`, `numpy`, `plotly`, and `dstack`, `tidyverse`, `ggplot2`, etc.
 
 The jobs are ideal for processing data regularly and [publishing the results](pushing-visualizations.md#pushing-static-visualizations-or-datasets) in the form of stacks, e.g. data [visualizations](../tutorials/plotting-libraries.md) or [datasets](../tutorials/datasets.md).

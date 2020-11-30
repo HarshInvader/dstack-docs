@@ -10,6 +10,7 @@
 
 * [Installation](open-source/installation.md)
 * [Stacks](open-source/pushing-visualizations.md)
+* [Applications](open-source/applications.md)
 * [Reports](open-source/dashboards.md)
 * [Jobs](open-source/jobs.md)
 
