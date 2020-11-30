@@ -1,6 +1,6 @@
 # What is dstack?
 
-[dstack.ai](https://dstack.ai) is an open-source tool and an enterprise platform for building data and ML applications using Python and R.
+[dstack.ai](https://dstack.ai) is an open-source tool and an enterprise platform for building data and ML applications using Python.
 
 How is dstack different from other frameworks \(Plotly, Streamlit, Shiny, etc\):
 

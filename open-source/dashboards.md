@@ -4,7 +4,7 @@ description: >-
   to displays multiple visualizations at once based on selected parameters.
 ---
 
-# Reports
+# Reports \(Deprecated\)
 
 ## What are Reports?
 

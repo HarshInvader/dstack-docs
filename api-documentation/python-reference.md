@@ -161,3 +161,7 @@ add(self,
 {% endtab %}
 {% endtabs %}
 
+## App Method
+
+From dstack `v0.6` onwards, you can call the `.app()` method in order to create interactive applications.
+
