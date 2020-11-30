@@ -11,8 +11,8 @@
 * [Installation](open-source/installation.md)
 * [Stacks](open-source/pushing-visualizations.md)
 * [Applications](open-source/applications.md)
-* [Reports \(Deprecated\)](open-source/dashboards.md)
-* [Jobs \(Deprecated\)](open-source/jobs.md)
+* [Reports](open-source/dashboards.md)
+* [Jobs](open-source/jobs.md)
 
 ## 📚 Tutorials and Guides <a id="tutorials"></a>
 

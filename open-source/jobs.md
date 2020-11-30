@@ -4,7 +4,7 @@ description: >-
   regular Python or R jobs and monitoring their progress.
 ---
 
-# Jobs \(Deprecated\)
+# Jobs
 
 {% hint style="warning" %}
 Please note that **Jobs** will be **deprecated** in the future versions of dstack \(from `version 0.6` onwards\). You can refer to the [Applications](applications.md) section if you want to use this functionality in the future.
